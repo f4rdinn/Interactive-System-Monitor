@@ -17,6 +17,6 @@ Users can choose which system information to view: CPU, RAM, or Disk usage. The 
 
 ## Installation
 ```bash
-git clone [https://github.com/YourUsername/interactive-system-monitor.git](https://github.com/f4rdinn/Interactive-System-Monitor.git)
-cd interactive-system-monitor
+git clone https://github.com/f4rdinn/Interactive-System-Monitor.git
 chmod +x system-monitor.sh
+./system_monitor_interactive.sh
