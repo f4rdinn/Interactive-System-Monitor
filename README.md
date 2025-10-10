@@ -37,30 +37,10 @@ sudo apt update && sudo apt install curl dnsutils whois bc -y
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/f4rdinn/web_info-by__f4ardin.git
     cd your-repo-name
-    ```
 
-2.  **Make the script executable:**
-    ```bash
     chmod +x web-info.sh
-    ```
 
-3.  **Run the script:**
-
-    -   **For Interactive Mode (with menu):**
-        ```bash
         ./web-info.sh
-        ```
-        Then, enter a domain and choose from the menu options.
-
-    -   **For Single-Run Mode (get all info at once):**
-        ```bash
-        ./web-info.sh example.com
-        ```
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+       
